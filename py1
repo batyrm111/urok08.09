@@ -1,1 +1,3 @@
-
+vopros = ['name', 'quest', 'favorite color']
+otvet = ['lancelot', 'the holy grail', 'blue']
+for q, a in zip(questions, answers)
